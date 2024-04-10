@@ -1,0 +1,14 @@
+{
+  "name": "serve_html",
+  "version": "1.0.0",
+  "description": "create html view from folder",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kamva Soga",
+  "license": "ISC",
+  "dependencies": {
+    "http-status-codes": "^2.3.0"
+  }
+}
